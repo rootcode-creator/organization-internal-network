@@ -99,7 +99,7 @@ enterprise backbone to other segments and shared services.
 ### Topology diagram
 
 ```mermaid
-%%{init: {'themeVariables': {'fontSize': '20px'}, 'flowchart': {'nodeSpacing': 90, 'rankSpacing': 100, 'useMaxWidth': true}} }%%
+%%{init: {'themeVariables': {'fontSize': '12px'}, 'flowchart': {'nodeSpacing': 30, 'rankSpacing': 40, 'useMaxWidth': false}} }%%
 flowchart TB
 	core["Interdepartment Router Chain"]
 	pr["1841\nProduction-Router"]
