@@ -4,6 +4,8 @@
 
 <h1 align="center">organization-internal-network</h1>
 
+<p align="center"><em>Static enterprise network simulation built in Cisco Packet Tracer, modeling five departmental LANs with routed core connectivity and shared DNS/DHCP/web services.</em></p>
+
 <p align="center">
 	<img src="https://img.shields.io/badge/Cisco-PT-1f6feb?logo=cisco&logoColor=white" alt="Cisco Packet Tracer" height="26">
 	<img src="https://img.shields.io/badge/Router-Cisco-0ea5e9?logo=cisco&logoColor=white" alt="Router" height="26">
