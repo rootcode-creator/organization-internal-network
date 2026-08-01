@@ -17,11 +17,6 @@
 	<img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" height="26">
 </p>
 
-## organization-internal-network — README
-
-Cisco Packet Tracer simulation of an organization-wide internal network with
-multiple departmental LANs, routed inter-department connectivity, and shared
-services such as web, DNS, and DHCP.
 
 ## Table of Contents
 
