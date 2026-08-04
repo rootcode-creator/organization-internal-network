@@ -93,8 +93,6 @@ The main simulation flow starts from the departmental PCs, passes through the
 department switch, reaches the department router, and then connects across the
 enterprise backbone to other segments and shared services.
 
-### Topology diagram
-
 ```mermaid
 %%{init: {'themeVariables': {'fontSize': '12px'}, 'flowchart': {'nodeSpacing': 30, 'rankSpacing': 40, 'useMaxWidth': false}} }%%
 flowchart TB
